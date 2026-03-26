@@ -89,7 +89,7 @@ pip (Python package manager)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hematology-pdf-extractor.git
+git clone https://github.com/Malik-Faisal-Awan1/hematology-pdf-extractor.git
 cd hematology-pdf-extractor
 
 # Install dependencies
@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If this project helped you, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/hematology-pdf-extractor&type=Date)](https://star-history.com/#yourusername/hematology-pdf-extractor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Malik-Faisal-Awan1/hematology-pdf-extractor&type=Date)](https://star-history.com/#Malik-Faisal-Awan1/hematology-pdf-extractor&Date)
 
 ---
 
