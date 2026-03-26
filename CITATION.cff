@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "Khalid"
+    given-names: "Faisal"
+    orcid: "https://orcid.org/0009-0003-4616-3593"
+    email: "malikfaisal.pc56@gmail.com"
+title: "Hematology PDF Data Extractor"
+version: 1.0.0
+date-released: 2025-02-11
+url: "https://github.com/Malik-Faisal-Awan1/hematology-pdf-extractor"
+repository-code: "https://github.com/Malik-Faisal-Awan1/hematology-pdf-extractor"
+keywords:
+  - medical-data-extraction
+  - hematology
+  - pdf-parser
+  - healthcare-technology
+  - data-automation
+  - clinical-research
+  - thalassemia-screening
+  - laboratory-information-system
+  - health-informatics
+license: MIT
+abstract: >
+  An automated tool for extracting and analyzing hematology test data 
+  from PDF laboratory reports. Designed for healthcare professionals and 
+  researchers conducting large-scale studies on blood disorders, including 
+  thalassemia screening programs. Achieves 100% extraction accuracy on 
+  validated lab formats with support for 37 data fields including 
+  demographics, hematology parameters, hemoglobin fractions, and RBC morphology.
+type: software
